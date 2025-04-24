@@ -1,0 +1,18 @@
+## Extra Repos added for Drauger OS
+## These are the main repos everyone gets updates from.
+Types: deb 
+URIs: https://apt.draugeros.org
+Suites: urgal urgal-graphics
+Components: main
+
+## Development Repos for Drauger OS
+## ONLY ENABLE IF YOU ARE WILLING TO DEAL WITH BUGS
+# Types: deb
+# URIs: https://apt.draugeros.org
+# Suites: urgal-dev
+# Components: main
+
+# Types: deb
+# URIs: https://apt.draugeros.org
+# Suites: urgal-graphics-dev
+# Components: main

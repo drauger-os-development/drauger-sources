@@ -1,10 +1,10 @@
 Package: drauger-sources
-Version: 0.0.1
+Version: 0.0.2
 Maintainer: Thomas Castleman <batcastle@draugeros.org>
 Section: admin
 Architecture: all
 Priority: optional
-Depends: apt (>=1.6.6)
-Description: Gdebi alternative for Drauger OS
- drauger-installer is a Gdebi alternative for Drauger OS and other Debian based systems on which GDebi does not work. It is a simple script and can easily be hacked to do more or less if the user so desires.
+Depends: apt (>=1.6.6), ubuntu-keyring (>=2023.11.28.1)
+Description: Drauger OS Sources and keyfiles
+ This package provides the sources and GPG key files to use Drauger OS with.
 

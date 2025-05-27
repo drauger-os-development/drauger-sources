@@ -4,6 +4,7 @@ Types: deb
 URIs: https://apt.draugeros.org
 Suites: urgal urgal-graphics
 Components: main
+Signed-By: /usr/share/keyrings/drauger_os_main.gpg
 
 ## Development Repos for Drauger OS
 ## ONLY ENABLE IF YOU ARE WILLING TO DEAL WITH BUGS
@@ -11,8 +12,10 @@ Components: main
 # URIs: https://apt.draugeros.org
 # Suites: urgal-dev
 # Components: main
+# Signed-By: /usr/share/keyrings/drauger_os_main.gpg
 
 # Types: deb
 # URIs: https://apt.draugeros.org
 # Suites: urgal-graphics-dev
 # Components: main
+# Signed-By: /usr/share/keyrings/drauger_os_main.gpg
